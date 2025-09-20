@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\bin\Debug\EJERCICIOS_S5.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\bin\Debug\EJERCICIOS_S5.exe
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\bin\Debug\EJERCICIOS_S5.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\obj\Debug\EJERCICIOS_S5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\obj\Debug\EJERCICIOS_S5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\obj\Debug\EJERCICIOS_S5.exe
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\obj\Debug\EJERCICIOS_S5.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\EJERS-S05\EJERCICIOS_S5\EJERCICIOS_S5\obj\Debug\EJERCICIOS_S5.exe.config
