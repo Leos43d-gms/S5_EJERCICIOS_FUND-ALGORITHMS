@@ -11,7 +11,7 @@ namespace EJERCICIOS_S5
     {
         static void Main(string[] args)
         {
-            Ejer01();
+            Ejer2();
             Console.ReadKey();
         }
         static void Ejer01()
@@ -84,7 +84,7 @@ namespace EJERCICIOS_S5
                         Console.WriteLine("Excelente");
                         break;
                 }
-            if (nt >= 14 || nt % 2 == 0)
+            if (nt >= 14 && nt % 2 == 0)
                 Console.WriteLine("Buen desempeño con nota par");
             if (nt < 11 || nt % 2 != 0)
                 Console.WriteLine("Necesita refuerzo");
